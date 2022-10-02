@@ -9,7 +9,7 @@ public class Q19_Distinct_values {
         int b = sc.nextInt();
         System.out.println("Enter the third number");
         int c = sc.nextInt();
-        if (a != b && a != c)
+        if (a != b && a != c && b!=a && b!=c && c!=a && c!=b)
         {
             if (a < b && a < c)
             {
