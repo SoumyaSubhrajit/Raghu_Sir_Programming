@@ -1,3 +1,4 @@
+// N natural number.
 public class n_natural_number {
     public static void main(String[] args) {
         int n = 12;
