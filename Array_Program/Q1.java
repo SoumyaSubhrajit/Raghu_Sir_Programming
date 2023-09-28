@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// input: [ 78.05% , 65.87% , 45.67% , 76.43% , 98.08% ]
+// input: [ 78.05% , 65.87% , 45.67% , 76.43% , 98.08%, 0 ]
 // output: the highest percentage is - 98.08%
 public class Q1 {
     public double getHighest(double[] arr)
